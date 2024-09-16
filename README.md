@@ -22,7 +22,8 @@ pip install tkinter googletrans==4.0.0-rc1 speechrecognition
 - Open the application, select the Source Language and Destination Language from the dropdown menus.
 - Enter the text you want to translate in the text box, or click the Translate button after selecting the languages.
 - You can also speak into your microphone, and the app will convert your speech to text and translate it automatically.
-- Future Improvements
+
+## Future Improvements
 - Add more error handling for speech recognition failures.
 - Implement offline translation capabilities.
 - Enhance UI with custom themes and better font integration.
